@@ -2,7 +2,7 @@
 
 > *“It’s not about cars, it’s about curves… graphs, I mean.”*  
 
-Welcome to **thirtytheee**, a beginner-friendly machine learning project exploring Formula 1 data.  
+Welcome to **thirtythree**, a beginner-friendly machine learning project exploring Formula 1 data.  
 The goal? To analyze, visualize, and make predictions from racing stats — all through the lens of Python, pandas, and a sprinkle of ML magic.  
 
 ---
